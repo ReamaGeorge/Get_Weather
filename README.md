@@ -51,3 +51,7 @@ curl "http://yourusername.pythonanywhere.com/api/hello?visitor_name=Mark"
   "greeting": "Hello, Mark!, the temperature is 11 degrees Celsius in New York"
 }
 ```
+### Challenge
+{"error":"Could not retrieve location or weather information"}
+
+Need to rectify the error.
